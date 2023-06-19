@@ -1,3 +1,5 @@
+; this fucking thing doesn't even work yet.
+
 ; DISCLAIMER:   this is filthy shit-code, please don't ever write assembly like this
 ;               the purpose of this pile of garbage is to be a point of reference for anyone else 
 ;               deranged enough to start with assembly socket programming
